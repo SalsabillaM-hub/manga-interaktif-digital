@@ -1,0 +1,322 @@
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.wrapper {
+    width: 990px;
+    height: 9015px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.wrapper2 {
+    width: 990px;
+    height: 7000px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.wrapperindexfail {
+    width: 990px;
+    height: 2800px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.wrapper4 {
+    width: 990px;
+    height: 8400px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.wrapperindexfail {
+    width: 990px;
+    height: 2800px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.wrapperindexfail2 {
+    width: 990px;
+    height: 2800px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.wrapperindexfail3 {
+    width: 990px;
+    height: 2800px;
+    border: 5px solid black;
+    margin: 0 auto;
+}
+
+.cover {
+    position: relative;
+}
+
+.cover2 {
+    position: relative;
+}
+
+#halaman1 {
+    position: relative;
+}
+
+#halaman2 {
+    position: relative;
+}
+
+#halaman3 {
+    position: relative;
+}
+
+#halaman4 {
+    position: relative;
+}
+
+#halaman5 {
+    position: relative;
+}
+
+#halaman5 {
+    position: relative;
+}
+
+#halaman5 img {
+    display: block;
+}
+
+#halaman5a {
+    position: absolute;
+    top: 50%;
+    left: 7%;
+    z-index: 3;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#halaman5a:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman5b {
+    position: absolute;
+    top: 55%;
+    right: 7%;
+    z-index: 3;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#halaman5b:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman6 {
+    position: relative;
+}
+
+#halaman7 {
+    position: relative;
+}
+
+#halaman7 img {
+    display: block;
+}
+
+#kembali1 {
+    position: absolute;
+    top: 80%;
+    right: 1%;
+    z-index: 3;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#kembali1:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman8 {
+    position: relative;
+}
+
+#halaman9 {
+    position: relative;
+}
+
+#halaman10 {
+    position: relative;
+}
+
+#halaman11 {
+    position: relative;
+}
+
+#halaman12 {
+    position: relative;
+}
+
+#halaman12 img {
+    display: block;
+}
+
+#halaman12a {
+    position: absolute;
+    top: 72%;
+    left: 2%;
+    z-index: 3;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#halaman12a:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman12b {
+    position: absolute;
+    top: 72%;
+    right: 2%;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#halaman12b:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman13 {
+    position: relative;
+}
+
+#halaman14 {
+    position: relative;
+}
+
+#halaman14 img {
+    display: block;
+}
+
+#kembali2 {
+    position: absolute;
+    top: 80%;
+    right: 1%;
+    z-index: 5;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#kembali2:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman15 {
+    position: relative;
+}
+
+#halaman16 {
+    position: relative;
+}
+
+#halaman17 {
+    position: relative;
+}
+
+#halaman18 {
+    position: relative;
+}
+
+#halaman19 {
+    position: relative;
+}
+
+#halaman20 {
+    position: relative;
+}
+
+#halaman20 img {
+    display: block;
+}
+
+#halaman20a {
+    position: absolute;
+    top: 75%;
+    right: 4%;
+    z-index: 3;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#halaman20a:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman20b {
+    position: absolute;
+    top: 75%;
+    left: 4%;
+    z-index: 3;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#halaman20b:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman21 {
+    position: relative;
+}
+
+#halaman22 {
+    position: relative;
+}
+
+#halaman22 img {
+    display: block;
+}
+
+#kembali3 {
+    position: absolute;
+    top: 80%;
+    right: 1%;
+    z-index: 8;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+#kembali3:hover {
+    transform:translateY(-8px) scale(1.05);
+}
+
+#halaman23 {
+    position: relative;
+}
+
+#halaman24 {
+    position: relative;
+}
+
+#halaman25 {
+    position: relative;
+}
+
+#halaman26 {
+    position: relative;
+}
+
+#halaman27 {
+    position: relative;
+}
+
+#penutup {
+    position: relative;
+}
+
+#penutup img {
+    display: block;
+}
+
+#penutup ol {
+  position: absolute;
+  top: 40%;
+  right: 20%;
+  left: 20%;
+  z-index: 5;
+  font-size: 30px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
